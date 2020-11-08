@@ -4,7 +4,7 @@
 
 # Whatsapp Bot - sticker creator
 
-[![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
+[![Codefactor](https://www.codefactor.io/repository/github//hilmysakti/botstikerwabadge)](https://www.codefactor.io/repository/github/yogasakti/botstikerwa)
 
 <details>
 
