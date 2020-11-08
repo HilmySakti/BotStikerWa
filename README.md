@@ -106,7 +106,7 @@ Clone this project
 
 > git clone https://github.com/HilmySakti/BotStikerWa.git
 
-> cd imageToSticker
+> cd BotStikerWa
 
 ```
 
